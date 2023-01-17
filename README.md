@@ -21,7 +21,7 @@ Luego, se analizó el contenido de cada uno de ellos en busca duplicados, valore
 
 Por último, se analizaron las correlaciones entre las columnas, su importancia y cual información se utilizaría para entrenar a los modelos.
 
-<h2 align=center>Creación de pipelines, preuba de modelos y optimizacón de hiperparámetros. </h2>
+<h2 align=center>Creación de pipelines, prueba de modelos y optimizacón de hiperparámetros. </h2>
 Por otro lado, y con el fin de automatizar y simplificar los procesos se ultilizó la librería pipelines. Asi se logro realizar las tareas de transformación de datos y entrenamiento de los modelos de una manera muy sencilla, práctica y fácilmente reutilizable. Este proceso lo encontramos en el archivo main.ipynb.
 
 
